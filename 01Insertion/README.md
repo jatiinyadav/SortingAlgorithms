@@ -15,4 +15,4 @@
 14. Now we will compare 0 with every value and then our sorted array will be [**0, 1, 4, 7, 8, 10**].
 
 ## Insertion Sort Time Complexity
-![image](https://github.com/jatiinyadav/SortingAlgorithms/assets/73248007/8804bdb9-3aca-4ce2-a72d-51d03d441cd7)
+![Screenshot 2023-10-25 011236](https://github.com/jatiinyadav/SortingAlgorithms/assets/73248007/278a84cc-8b63-4fe0-9566-7c8ead2641bc)
