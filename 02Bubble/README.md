@@ -16,4 +16,4 @@
 that's why for 10 elements we will traverse for n - 1 ie. 9 times.
 
 ## Bubble Sort Time Complexity
-![image](https://github.com/jatiinyadav/SortingAlgorithms/assets/73248007/8804bdb9-3aca-4ce2-a72d-51d03d441cd7)
+![Screenshot 2023-10-25 011236](https://github.com/jatiinyadav/SortingAlgorithms/assets/73248007/278a84cc-8b63-4fe0-9566-7c8ead2641bc)
